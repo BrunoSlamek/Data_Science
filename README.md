@@ -1,3 +1,6 @@
+
+[![author](https://img.shields.io/badge/author-BrunoSlamek-red.svg)](https://www.linkedin.com/in/bruno-slamek/)
+
 # Portfólio na área de Data Science.
 
   Projetos;
